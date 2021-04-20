@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337946211244",
+    "project_id": "lojamoda-172d9",
+    "storage_bucket": "lojamoda-172d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337946211244:android:3feae6cb83864af7d54009",
+        "android_client_info": {
+          "package_name": "br.com.barroslucas.lojavirtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337946211244-sgdqlcfu9qt8k7fhaarucr49rp904qq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1ZS_D3g0b1ozMbLIq9c34Fq5QhMIBFhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337946211244-sgdqlcfu9qt8k7fhaarucr49rp904qq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
